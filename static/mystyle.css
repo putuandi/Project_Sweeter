@@ -61,3 +61,10 @@ input::-webkit-calender-picker-indicator {
     font-family: 'Stylish', sans-serif;
     font-size: larger;
 }
+
+#back-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
